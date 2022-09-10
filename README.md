@@ -12,3 +12,11 @@ Page 1
 Page 2
 <br/>
 ![page2](https://github.com/SalveDA/Power-BI-Dashboard-to-track-sales-and-inventory/blob/main/даш_1_2.png)
+<br/>
+Page 3
+<br/>
+![page3](https://github.com/SalveDA/Power-BI-Dashboard-to-track-sales-and-inventory/blob/main/даш_1_3.png)
+<br/>
+Page 4
+<br/>
+![page4](https://github.com/SalveDA/Power-BI-Dashboard-to-track-sales-and-inventory/blob/main/даш_1_4.png)
